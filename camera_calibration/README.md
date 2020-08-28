@@ -27,5 +27,5 @@ __Step 3: Run the calibration program__
 - Repeat the the procedure untill all the images in the "images" folder is excecuted. 
 
 <p align="center">    
-<img src="calibration.gif" align="center" width="70%" height="70%">
+<img src="camera_calibration.jpg" align="center" width="70%" height="70%">
 </p>
